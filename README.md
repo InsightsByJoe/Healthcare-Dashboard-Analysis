@@ -18,7 +18,7 @@ The analysis focused on visualizing patient data using **Microsoft Excel** to cr
 The dataset used in this analysis can be found [here](https://github.com/eyowhite/Messy-dataset/blob/main/cleaned_healthcare_messy_data.csv).
 
 ## Tools Used
-- **Microsoft Excel**:[Download here(https://microsoft.com) Data cleaning, visualization, and dashboard creation.
+- **Microsoft Excel**: Excel was used for data loading, cleaning, analysis, and visualizing the results. You can download Microsoft Excel [here](https://microsoft.com).
 - **CSV File**: Raw dataset obtained from the above GitHub link.
 
 ## Process Overview
