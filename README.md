@@ -61,3 +61,15 @@ The dataset used in this analysis can be found [here](https://github.com/eyowhit
 - **Data Completeness**: Some records had missing data, which might affect the precision of the analysis.
 - **Limited Scope**: The analysis was done using only available attributes in the dataset; further insights could be drawn if more variables, like geographic location or patient lifestyle, were included.
 - **Static Dashboard**: The current dashboard is not interactive; future versions can leverage tools like Power BI or Tableau for dynamic insights.
+
+## Conclusion
+The analysis provides a comprehensive overview of healthcare utilization across demographics. The middle-aged population dominates the dataset in terms of medical conditions treated and billing amounts, with a focus on chronic conditions like hypertension and obesity. Hospitals and doctors with higher billing and patient volumes can benefit from improved resource allocation. Addressing the underrepresentation of the younger age group in insurance coverage and preventive care efforts for middle-aged patients could lead to significant cost savings and better health outcomes.
+
+This dashboard serves as a valuable tool for healthcare administrators to make data-driven decisions. However, improvements in data quality, integration of more variables, and the use of interactive tools could further enhance the insights derived from this analysis.
+
+## References
+- Dataset used: [Cleaned Healthcare Messy Data](https://github.com/eyowhite/Messy-dataset/blob/main/cleaned_healthcare_messy_data.csv)
+- Tools and Methodology: **Microsoft Excel** for data cleaning, visualization, and analysis.
+- Other resources: General knowledge of healthcare data analysis, best practices for dashboard design, and Excel data manipulation techniques.
+
+
