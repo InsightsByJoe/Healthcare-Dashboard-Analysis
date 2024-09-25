@@ -5,7 +5,8 @@ The **Healthcare Dashboard Analysis** project aims to provide an insightful over
 
 The analysis focused on visualizing patient data using **Microsoft Excel** to create a user-friendly dashboard, providing stakeholders with actionable insights.
 
-![Healthcare dashboard](https://github.com/user-attachments/assets/36159fc5-7017-4c22-9a5a-ccd037fa3024)
+![Healthcare dashboard]![Screenshot 2024-09-25 182048](https://github.com/user-attachments/assets/892250f8-48ab-40b4-bf71-f1cfe04e6df6)
+
 
 ### Key Objectives:
 - Visualize medical conditions and billing across age groups.
